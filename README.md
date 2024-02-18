@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oxbojyd
+- 👋 Hi, I’m @JerimyCurtis
 - 👀 I’m interested in coding and data analysis
 - 🌱 I’m currently learning javascript, html, and css as a part of a web development course.
 - 💞️ I’m looking to collaborate on anything that will help me learn.
